@@ -1,0 +1,6 @@
+Abstraction
+1-Abstract class dan instantinate yapamıyoruz.
+2-Abstract classlar içinde abstract methodlar oluşturabiliriz.
+3-Abstract methodlarda implement yapamayız.
+4-İlk Concrate classda non-abstract method olabilir
+5-
