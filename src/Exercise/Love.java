@@ -7,4 +7,5 @@ public class Love {
             System.out.println("I LOVE ONLY YOU");
         }
     }
+    
 }
